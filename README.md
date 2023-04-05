@@ -1,4 +1,4 @@
-# my-first-chatbot
+# (Very) Simple Chatbot
 
 In this project I try creating a simple chatbot in:
 1. English (source: https://data-flair.training/blogs/python-chatbot-project/)
